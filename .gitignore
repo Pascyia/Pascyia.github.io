@@ -1,0 +1,7 @@
+# Exclude detail pages over 1GB limit
+events/*/
+items/*/
+locations/*/
+!events/index.html
+!items/index.html
+!locations/index.html
