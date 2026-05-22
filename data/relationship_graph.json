@@ -1,0 +1,4184 @@
+{
+  "nodes": [
+    {
+      "id": "琳",
+      "name": "琳",
+      "group": "主角（演化生命体）",
+      "appearances": 417
+    },
+    {
+      "id": "脑袋虫",
+      "name": "脑袋虫",
+      "group": "配角",
+      "appearances": 75
+    },
+    {
+      "id": "苏苏米",
+      "name": "苏苏米",
+      "group": "主角",
+      "appearances": 41
+    },
+    {
+      "id": "晶狂",
+      "name": "晶狂",
+      "group": "主角",
+      "appearances": 38
+    },
+    {
+      "id": "创造者",
+      "name": "创造者",
+      "group": "创造者",
+      "appearances": 32
+    },
+    {
+      "id": "贝希摩斯",
+      "name": "贝希摩斯",
+      "group": "配角",
+      "appearances": 31
+    },
+    {
+      "id": "利维坦",
+      "name": "利维坦",
+      "group": "主角",
+      "appearances": 29
+    },
+    {
+      "id": "塔克",
+      "name": "塔克",
+      "group": "配角",
+      "appearances": 26
+    },
+    {
+      "id": "绒球",
+      "name": "绒球",
+      "group": "配角",
+      "appearances": 26
+    },
+    {
+      "id": "印加虫群",
+      "name": "印加虫群",
+      "group": "配角",
+      "appearances": 22
+    },
+    {
+      "id": "穆克拉",
+      "name": "穆克拉",
+      "group": "配角",
+      "appearances": 22
+    },
+    {
+      "id": "间谍",
+      "name": "间谍",
+      "group": "配角",
+      "appearances": 20
+    },
+    {
+      "id": "侏儒",
+      "name": "侏儒",
+      "group": "配角",
+      "appearances": 18
+    },
+    {
+      "id": "教长",
+      "name": "教长",
+      "group": "反派",
+      "appearances": 18
+    },
+    {
+      "id": "挖掘者",
+      "name": "挖掘者",
+      "group": "配角",
+      "appearances": 17
+    },
+    {
+      "id": "蒙特二世",
+      "name": "蒙特二世",
+      "group": "主角",
+      "appearances": 17
+    },
+    {
+      "id": "注酸者",
+      "name": "注酸者",
+      "group": "配角",
+      "appearances": 15
+    },
+    {
+      "id": "深沙巴士",
+      "name": "深沙巴士",
+      "group": "反派",
+      "appearances": 14
+    },
+    {
+      "id": "阿兹特克虫",
+      "name": "阿兹特克虫",
+      "group": "配角",
+      "appearances": 13
+    },
+    {
+      "id": "锥形细胞",
+      "name": "锥形细胞",
+      "group": "配角",
+      "appearances": 12
+    },
+    {
+      "id": "裂地者",
+      "name": "裂地者",
+      "group": "反派",
+      "appearances": 12
+    },
+    {
+      "id": "毛玉",
+      "name": "毛玉",
+      "group": "配角",
+      "appearances": 12
+    },
+    {
+      "id": "虚民",
+      "name": "虚民",
+      "group": "反派",
+      "appearances": 12
+    },
+    {
+      "id": "指挥官",
+      "name": "指挥官",
+      "group": "领导者",
+      "appearances": 12
+    },
+    {
+      "id": "观察者",
+      "name": "观察者",
+      "group": "主角（特殊细胞）",
+      "appearances": 11
+    },
+    {
+      "id": "奇布查虫",
+      "name": "奇布查虫",
+      "group": "重要角色",
+      "appearances": 11
+    },
+    {
+      "id": "姆克图",
+      "name": "姆克图",
+      "group": "反派",
+      "appearances": 11
+    },
+    {
+      "id": "螺旋生物",
+      "name": "螺旋生物",
+      "group": "反派",
+      "appearances": 11
+    },
+    {
+      "id": "变形虫",
+      "name": "变形虫",
+      "group": "反派/对手",
+      "appearances": 10
+    },
+    {
+      "id": "飞矛",
+      "name": "飞矛",
+      "group": "贵民翡翠龙",
+      "appearances": 10
+    },
+    {
+      "id": "立蝎",
+      "name": "立蝎",
+      "group": "反派",
+      "appearances": 10
+    },
+    {
+      "id": "海王",
+      "name": "海王",
+      "group": "主要角色",
+      "appearances": 10
+    },
+    {
+      "id": "爆哮虫",
+      "name": "爆哮虫",
+      "group": "正派",
+      "appearances": 9
+    },
+    {
+      "id": "蒙特三世",
+      "name": "蒙特三世",
+      "group": "配角",
+      "appearances": 9
+    },
+    {
+      "id": "蠕虫",
+      "name": "蠕虫",
+      "group": "配角",
+      "appearances": 8
+    },
+    {
+      "id": "古鱿",
+      "name": "古鱿",
+      "group": "配角",
+      "appearances": 7
+    },
+    {
+      "id": "白骸龙幼仔",
+      "name": "白骸龙幼仔",
+      "group": "配角",
+      "appearances": 7
+    },
+    {
+      "id": "电侏儒",
+      "name": "电侏儒",
+      "group": "反派",
+      "appearances": 7
+    },
+    {
+      "id": "利德尔",
+      "name": "利德尔",
+      "group": "反派",
+      "appearances": 7
+    },
+    {
+      "id": "黑椒",
+      "name": "黑椒",
+      "group": "主角",
+      "appearances": 7
+    },
+    {
+      "id": "队长",
+      "name": "队长",
+      "group": "指挥者",
+      "appearances": 7
+    },
+    {
+      "id": "合成体",
+      "name": "合成体",
+      "group": "配角",
+      "appearances": 7
+    },
+    {
+      "id": "储藏者",
+      "name": "储藏者",
+      "group": "配角",
+      "appearances": 6
+    },
+    {
+      "id": "炼狱蠕虫",
+      "name": "炼狱蠕虫",
+      "group": "敌人",
+      "appearances": 6
+    },
+    {
+      "id": "瘟疫之龙",
+      "name": "瘟疫之龙",
+      "group": "反派",
+      "appearances": 6
+    },
+    {
+      "id": "金色雕像",
+      "name": "金色雕像",
+      "group": "盟友",
+      "appearances": 6
+    },
+    {
+      "id": "爆球",
+      "name": "爆球",
+      "group": "配角",
+      "appearances": 5
+    },
+    {
+      "id": "蒙特祖玛",
+      "name": "蒙特祖玛",
+      "group": "反派",
+      "appearances": 5
+    },
+    {
+      "id": "玛雅",
+      "name": "玛雅",
+      "group": "配角",
+      "appearances": 5
+    },
+    {
+      "id": "猎食者",
+      "name": "猎食者",
+      "group": "配角",
+      "appearances": 5
+    },
+    {
+      "id": "幼仔",
+      "name": "幼仔",
+      "group": "配角",
+      "appearances": 5
+    },
+    {
+      "id": "山之王",
+      "name": "山之王",
+      "group": "反派",
+      "appearances": 5
+    },
+    {
+      "id": "预言者",
+      "name": "预言者",
+      "group": "记录者",
+      "appearances": 5
+    },
+    {
+      "id": "哈斯将军",
+      "name": "哈斯将军",
+      "group": "主要角色",
+      "appearances": 5
+    },
+    {
+      "id": "舰长",
+      "name": "舰长",
+      "group": "主角",
+      "appearances": 5
+    },
+    {
+      "id": "操作员",
+      "name": "操作员",
+      "group": "配角",
+      "appearances": 5
+    },
+    {
+      "id": "学者",
+      "name": "学者",
+      "group": "观察者",
+      "appearances": 5
+    },
+    {
+      "id": "紫细胞",
+      "name": "紫细胞",
+      "group": "配角",
+      "appearances": 4
+    },
+    {
+      "id": "光菌",
+      "name": "光菌",
+      "group": "配角（敌对）",
+      "appearances": 4
+    },
+    {
+      "id": "脂肪细胞",
+      "name": "脂肪细胞",
+      "group": "配角",
+      "appearances": 4
+    },
+    {
+      "id": "吞噬者",
+      "name": "吞噬者",
+      "group": "配角",
+      "appearances": 4
+    },
+    {
+      "id": "圆盾蠕虫",
+      "name": "圆盾蠕虫",
+      "group": "反派",
+      "appearances": 4
+    },
+    {
+      "id": "飞行者",
+      "name": "飞行者",
+      "group": "配角",
+      "appearances": 4
+    },
+    {
+      "id": "黑蜂",
+      "name": "黑蜂",
+      "group": "配角",
+      "appearances": 4
+    },
+    {
+      "id": "首领",
+      "name": "首领",
+      "group": "配角",
+      "appearances": 4
+    },
+    {
+      "id": "螳螂虾",
+      "name": "螳螂虾",
+      "group": "配角",
+      "appearances": 4
+    },
+    {
+      "id": "开拓者",
+      "name": "开拓者",
+      "group": "主角",
+      "appearances": 4
+    },
+    {
+      "id": "卫兵",
+      "name": "卫兵",
+      "group": "配角",
+      "appearances": 4
+    },
+    {
+      "id": "空水母",
+      "name": "空水母",
+      "group": "交通工具",
+      "appearances": 4
+    },
+    {
+      "id": "王",
+      "name": "王",
+      "group": "主角/配角",
+      "appearances": 4
+    },
+    {
+      "id": "剑蚤",
+      "name": "剑蚤",
+      "group": "配角",
+      "appearances": 4
+    },
+    {
+      "id": "方舟",
+      "name": "方舟",
+      "group": "主角",
+      "appearances": 4
+    },
+    {
+      "id": "勇者",
+      "name": "勇者",
+      "group": "主角",
+      "appearances": 4
+    },
+    {
+      "id": "构造体",
+      "name": "构造体",
+      "group": "反派",
+      "appearances": 4
+    },
+    {
+      "id": "观察者细胞",
+      "name": "观察者细胞",
+      "group": "配角",
+      "appearances": 3
+    },
+    {
+      "id": "怪细胞",
+      "name": "怪细胞",
+      "group": "反派",
+      "appearances": 3
+    },
+    {
+      "id": "病毒",
+      "name": "病毒",
+      "group": "反派",
+      "appearances": 3
+    },
+    {
+      "id": "基础细胞",
+      "name": "基础细胞",
+      "group": "配角",
+      "appearances": 3
+    },
+    {
+      "id": "晶菌",
+      "name": "晶菌",
+      "group": "反派",
+      "appearances": 3
+    },
+    {
+      "id": "鬼雾菌",
+      "name": "鬼雾菌",
+      "group": "反派",
+      "appearances": 3
+    },
+    {
+      "id": "运输者",
+      "name": "运输者",
+      "group": "配角",
+      "appearances": 3
+    },
+    {
+      "id": "晶鳞蜥蜴",
+      "name": "晶鳞蜥蜴",
+      "group": "反派",
+      "appearances": 3
+    },
+    {
+      "id": "粉碎者",
+      "name": "粉碎者",
+      "group": "配角",
+      "appearances": 3
+    },
+    {
+      "id": "喷沙虫",
+      "name": "喷沙虫",
+      "group": "反派",
+      "appearances": 3
+    },
+    {
+      "id": "爆甲",
+      "name": "爆甲",
+      "group": "配角",
+      "appearances": 3
+    },
+    {
+      "id": "蒙特祖玛二世",
+      "name": "蒙特祖玛二世",
+      "group": "反派",
+      "appearances": 3
+    },
+    {
+      "id": "老白骸龙",
+      "name": "老白骸龙",
+      "group": "配角",
+      "appearances": 3
+    },
+    {
+      "id": "酪树",
+      "name": "酪树",
+      "group": "配角",
+      "appearances": 3
+    },
+    {
+      "id": "未知",
+      "name": "未知",
+      "group": "白骸龙",
+      "appearances": 3
+    },
+    {
+      "id": "箭石",
+      "name": "箭石",
+      "group": "战斗单位",
+      "appearances": 3
+    },
+    {
+      "id": "控制者",
+      "name": "控制者",
+      "group": "反派",
+      "appearances": 3
+    },
+    {
+      "id": "风暴·G·血雾",
+      "name": "风暴·G·血雾",
+      "group": "反派",
+      "appearances": 3
+    },
+    {
+      "id": "将军",
+      "name": "将军",
+      "group": "主角",
+      "appearances": 3
+    },
+    {
+      "id": "莎琳",
+      "name": "莎琳",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "小变形虫",
+      "name": "小变形虫",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "皱褶细胞",
+      "name": "皱褶细胞",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "岩虫",
+      "name": "岩虫",
+      "group": "反派",
+      "appearances": 2
+    },
+    {
+      "id": "刺细胞",
+      "name": "刺细胞",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "探索者",
+      "name": "探索者",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "绿细胞",
+      "name": "绿细胞",
+      "group": "反派",
+      "appearances": 2
+    },
+    {
+      "id": "白膏",
+      "name": "白膏",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "白细胞",
+      "name": "白细胞",
+      "group": "反派配角",
+      "appearances": 2
+    },
+    {
+      "id": "感染者",
+      "name": "感染者",
+      "group": "道具型角色",
+      "appearances": 2
+    },
+    {
+      "id": "水母",
+      "name": "水母",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "弹头",
+      "name": "弹头",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "钩虫",
+      "name": "钩虫",
+      "group": "反派",
+      "appearances": 2
+    },
+    {
+      "id": "邓氏鱼",
+      "name": "邓氏鱼",
+      "group": "反派",
+      "appearances": 2
+    },
+    {
+      "id": "巨脉蜻蜓",
+      "name": "巨脉蜻蜓",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "沙漠蝎",
+      "name": "沙漠蝎",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "锯蜓",
+      "name": "锯蜓",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "眼虫",
+      "name": "眼虫",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "读脑者",
+      "name": "读脑者",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "节肢类",
+      "name": "节肢类",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "闪耀鳗",
+      "name": "闪耀鳗",
+      "group": "反派",
+      "appearances": 2
+    },
+    {
+      "id": "陆行鲨",
+      "name": "陆行鲨",
+      "group": "重要生物",
+      "appearances": 2
+    },
+    {
+      "id": "涂壳者",
+      "name": "涂壳者",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "蝗群领主",
+      "name": "蝗群领主",
+      "group": "反派",
+      "appearances": 2
+    },
+    {
+      "id": "沙丘巨蜥",
+      "name": "沙丘巨蜥",
+      "group": "反派",
+      "appearances": 2
+    },
+    {
+      "id": "骸龙幼仔",
+      "name": "骸龙幼仔",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "深渊古鱿",
+      "name": "深渊古鱿",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "瘟疫之首",
+      "name": "瘟疫之首",
+      "group": "反派",
+      "appearances": 2
+    },
+    {
+      "id": "速生者",
+      "name": "速生者",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "小翡翠龙",
+      "name": "小翡翠龙",
+      "group": "主角",
+      "appearances": 2
+    },
+    {
+      "id": "肋骨蜈蚣",
+      "name": "肋骨蜈蚣",
+      "group": "反派",
+      "appearances": 2
+    },
+    {
+      "id": "下层区翡翠龙",
+      "name": "下层区翡翠龙",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "阿蒙",
+      "name": "阿蒙",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "其他翡翠龙",
+      "name": "其他翡翠龙",
+      "group": "支持者/想当王者",
+      "appearances": 2
+    },
+    {
+      "id": "成年骸龙",
+      "name": "成年骸龙",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "翡翠龙们",
+      "name": "翡翠龙们",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "白骸龙将军",
+      "name": "白骸龙将军",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "分裂脑",
+      "name": "分裂脑",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "翡翠龙骑士",
+      "name": "翡翠龙骑士",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "风暴将军",
+      "name": "风暴将军",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "亚特族群",
+      "name": "亚特族群",
+      "group": "反派",
+      "appearances": 2
+    },
+    {
+      "id": "剑蚤之脑",
+      "name": "剑蚤之脑",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "月",
+      "name": "月",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "其他白骸龙",
+      "name": "其他白骸龙",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "骸龙幼仔们",
+      "name": "骸龙幼仔们",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "星测者",
+      "name": "星测者",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "萝卜",
+      "name": "萝卜",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "翡翠龙指挥官",
+      "name": "翡翠龙指挥官",
+      "group": "主角",
+      "appearances": 2
+    },
+    {
+      "id": "半鱼",
+      "name": "半鱼",
+      "group": "主要生物",
+      "appearances": 2
+    },
+    {
+      "id": "雕像",
+      "name": "雕像",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "魔王",
+      "name": "魔王",
+      "group": "反派",
+      "appearances": 2
+    },
+    {
+      "id": "啤尔",
+      "name": "啤尔",
+      "group": "主角",
+      "appearances": 2
+    },
+    {
+      "id": "莫斯",
+      "name": "莫斯",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "检测箱",
+      "name": "检测箱",
+      "group": "不明",
+      "appearances": 2
+    },
+    {
+      "id": "金毛玉",
+      "name": "金毛玉",
+      "group": "主角",
+      "appearances": 2
+    },
+    {
+      "id": "翡翠龙将军",
+      "name": "翡翠龙将军",
+      "group": "领导者",
+      "appearances": 2
+    },
+    {
+      "id": "其他虚民",
+      "name": "其他虚民",
+      "group": "配角",
+      "appearances": 2
+    },
+    {
+      "id": "小萝莉",
+      "name": "小萝莉",
+      "group": "主角（造物者）",
+      "appearances": 1
+    },
+    {
+      "id": "黑色刺球",
+      "name": "黑色刺球",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "新细胞",
+      "name": "新细胞",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "绿色细胞",
+      "name": "绿色细胞",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "挖掘者细胞",
+      "name": "挖掘者细胞",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "注酸者细胞",
+      "name": "注酸者细胞",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "灰白细胞",
+      "name": "灰白细胞",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "大型晶菌",
+      "name": "大型晶菌",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "被感染的细胞",
+      "name": "被感染的细胞",
+      "group": "实验体/特殊细胞",
+      "appearances": 1
+    },
+    {
+      "id": "毛藻虫",
+      "name": "毛藻虫",
+      "group": "对手/实验对象",
+      "appearances": 1
+    },
+    {
+      "id": "发光细胞",
+      "name": "发光细胞",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "水流",
+      "name": "水流",
+      "group": "环境/反派",
+      "appearances": 1
+    },
+    {
+      "id": "细胞群体",
+      "name": "细胞群体",
+      "group": "背景角色",
+      "appearances": 1
+    },
+    {
+      "id": "巨大变形虫",
+      "name": "巨大变形虫",
+      "group": "背景角色",
+      "appearances": 1
+    },
+    {
+      "id": "绿色细胞群",
+      "name": "绿色细胞群",
+      "group": "神秘角色/潜在反派",
+      "appearances": 1
+    },
+    {
+      "id": "巨触须",
+      "name": "巨触须",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "气泡",
+      "name": "气泡",
+      "group": "反派/环境威胁",
+      "appearances": 1
+    },
+    {
+      "id": "野生细胞",
+      "name": "野生细胞",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "变形细胞",
+      "name": "变形细胞",
+      "group": "反派配角",
+      "appearances": 1
+    },
+    {
+      "id": "免疫细胞",
+      "name": "免疫细胞",
+      "group": "反派配角",
+      "appearances": 1
+    },
+    {
+      "id": "扁圆细胞",
+      "name": "扁圆细胞",
+      "group": "反派配角",
+      "appearances": 1
+    },
+    {
+      "id": "护卫者",
+      "name": "护卫者",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "扁虫",
+      "name": "扁虫",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "毯虫",
+      "name": "毯虫",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "巨陷虫",
+      "name": "巨陷虫",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "菊石",
+      "name": "菊石",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "布龙度蝎子",
+      "name": "布龙度蝎子",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "三叶虫",
+      "name": "三叶虫",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "爬行类",
+      "name": "爬行类",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "扭曲树",
+      "name": "扭曲树",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "巨水母",
+      "name": "巨水母",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "工兵",
+      "name": "工兵",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "碎岩者",
+      "name": "碎岩者",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "水晶蝎",
+      "name": "水晶蝎",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "收集者",
+      "name": "收集者",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "艺术创造者",
+      "name": "艺术创造者",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "突角蠊",
+      "name": "突角蠊",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "切割者",
+      "name": "切割者",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "浇灌者",
+      "name": "浇灌者",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "巨蠊",
+      "name": "巨蠊",
+      "group": "目标",
+      "appearances": 1
+    },
+    {
+      "id": "灰烬虫",
+      "name": "灰烬虫",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "穿透者",
+      "name": "穿透者",
+      "group": "研究工具",
+      "appearances": 1
+    },
+    {
+      "id": "扁鱼",
+      "name": "扁鱼",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "含肺鱼",
+      "name": "含肺鱼",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "蝾螈",
+      "name": "蝾螈",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "蛞蝓",
+      "name": "蛞蝓",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "嚼碎者",
+      "name": "嚼碎者",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "盘钩者",
+      "name": "盘钩者",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "巨蜂",
+      "name": "巨蜂",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "皇后",
+      "name": "皇后",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "熔岩蠕虫",
+      "name": "熔岩蠕虫",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "红蛛",
+      "name": "红蛛",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "家园树",
+      "name": "家园树",
+      "group": "重要角色",
+      "appearances": 1
+    },
+    {
+      "id": "钻地者",
+      "name": "钻地者",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "小蠕虫",
+      "name": "小蠕虫",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "脑袋虫族群",
+      "name": "脑袋虫族群",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "狂暴蟑螂",
+      "name": "狂暴蟑螂",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "蟋蟀",
+      "name": "蟋蟀",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "斯帕蜥",
+      "name": "斯帕蜥",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "轰炸者",
+      "name": "轰炸者",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "伊卡",
+      "name": "伊卡",
+      "group": "主角",
+      "appearances": 1
+    },
+    {
+      "id": "真菌",
+      "name": "真菌",
+      "group": "重要角色",
+      "appearances": 1
+    },
+    {
+      "id": "畅游者",
+      "name": "畅游者",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "奇怪的‘嘴’",
+      "name": "奇怪的‘嘴’",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "轰炸者群",
+      "name": "轰炸者群",
+      "group": "辅助角色",
+      "appearances": 1
+    },
+    {
+      "id": "暴君巨蜥",
+      "name": "暴君巨蜥",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "钩血球",
+      "name": "钩血球",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "红冠翼龙",
+      "name": "红冠翼龙",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "炸弹翼龙",
+      "name": "炸弹翼龙",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "骸龙首领",
+      "name": "骸龙首领",
+      "group": "主要角色",
+      "appearances": 1
+    },
+    {
+      "id": "真菌球内的生物",
+      "name": "真菌球内的生物",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "噬菌者",
+      "name": "噬菌者",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "杜美莎树",
+      "name": "杜美莎树",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "滤洋巨兽",
+      "name": "滤洋巨兽",
+      "group": "反派/敌对生物",
+      "appearances": 1
+    },
+    {
+      "id": "刺杀者",
+      "name": "刺杀者",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "钻探者",
+      "name": "钻探者",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "瘟疫真菌",
+      "name": "瘟疫真菌",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "节肢类生物",
+      "name": "节肢类生物",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "小的脑和大的脑",
+      "name": "小的脑和大的脑",
+      "group": "关键角色",
+      "appearances": 1
+    },
+    {
+      "id": "追踪者",
+      "name": "追踪者",
+      "group": "辅助",
+      "appearances": 1
+    },
+    {
+      "id": "骸龙族群",
+      "name": "骸龙族群",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "丛林侏儒",
+      "name": "丛林侏儒",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "陆龟",
+      "name": "陆龟",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "翡翠龙首领",
+      "name": "翡翠龙首领",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "翡翠龙幼仔",
+      "name": "翡翠龙幼仔",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "白骸龙的幼仔",
+      "name": "白骸龙的幼仔",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "结晶蝎子",
+      "name": "结晶蝎子",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "鲁特瓦",
+      "name": "鲁特瓦",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "红色结晶洞穴",
+      "name": "红色结晶洞穴",
+      "group": "背景",
+      "appearances": 1
+    },
+    {
+      "id": "鲁",
+      "name": "鲁",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "鲁特瓦首领",
+      "name": "鲁特瓦首领",
+      "group": "重要人物",
+      "appearances": 1
+    },
+    {
+      "id": "其他立蝎",
+      "name": "其他立蝎",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "小骸龙利德尔",
+      "name": "小骸龙利德尔",
+      "group": "主角",
+      "appearances": 1
+    },
+    {
+      "id": "鲨鱼",
+      "name": "鲨鱼",
+      "group": "重要生物",
+      "appearances": 1
+    },
+    {
+      "id": "鳄",
+      "name": "鳄",
+      "group": "重要生物",
+      "appearances": 1
+    },
+    {
+      "id": "梦连者",
+      "name": "梦连者",
+      "group": "伪装者、梦境连接者",
+      "appearances": 1
+    },
+    {
+      "id": "巨大螳螂虾",
+      "name": "巨大螳螂虾",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "普通区翡翠龙",
+      "name": "普通区翡翠龙",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "上层区翡翠龙",
+      "name": "上层区翡翠龙",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "贵民",
+      "name": "贵民",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "王（苏苏米）",
+      "name": "王（苏苏米）",
+      "group": "反派/重要角色",
+      "appearances": 1
+    },
+    {
+      "id": "地弹虫",
+      "name": "地弹虫",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "镰刀立蝎",
+      "name": "镰刀立蝎",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "亚拉斯之王",
+      "name": "亚拉斯之王",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "泡壳虾",
+      "name": "泡壳虾",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "飞立蝎",
+      "name": "飞立蝎",
+      "group": "观察对象",
+      "appearances": 1
+    },
+    {
+      "id": "米诺斯",
+      "name": "米诺斯",
+      "group": "领袖",
+      "appearances": 1
+    },
+    {
+      "id": "被诅咒者",
+      "name": "被诅咒者",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "开荒者",
+      "name": "开荒者",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "阿德涅",
+      "name": "阿德涅",
+      "group": "英雄",
+      "appearances": 1
+    },
+    {
+      "id": "海之君主",
+      "name": "海之君主",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "原山之王",
+      "name": "原山之王",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "白骸龙预言者",
+      "name": "白骸龙预言者",
+      "group": "预言者",
+      "appearances": 1
+    },
+    {
+      "id": "海之王",
+      "name": "海之王",
+      "group": "被控制者",
+      "appearances": 1
+    },
+    {
+      "id": "分裂脑生物",
+      "name": "分裂脑生物",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "怪物",
+      "name": "怪物",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "回音虫残骸中的生物",
+      "name": "回音虫残骸中的生物",
+      "group": "主角",
+      "appearances": 1
+    },
+    {
+      "id": "布鲁顿",
+      "name": "布鲁顿",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "高翡翠龙",
+      "name": "高翡翠龙",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "波塞顿龙",
+      "name": "波塞顿龙",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "侦察兵",
+      "name": "侦察兵",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "海啸将军",
+      "name": "海啸将军",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "霍酱",
+      "name": "霍酱",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "白骸龙杂工",
+      "name": "白骸龙杂工",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "翡翠龙士兵",
+      "name": "翡翠龙士兵",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "剪断者",
+      "name": "剪断者",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "比琳",
+      "name": "比琳",
+      "group": "主角",
+      "appearances": 1
+    },
+    {
+      "id": "燃烧的怪树",
+      "name": "燃烧的怪树",
+      "group": "怪物",
+      "appearances": 1
+    },
+    {
+      "id": "引诱者",
+      "name": "引诱者",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "亚特族群主脑",
+      "name": "亚特族群主脑",
+      "group": "主要角色",
+      "appearances": 1
+    },
+    {
+      "id": "狂蜂",
+      "name": "狂蜂",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "脑袋虫姆克图",
+      "name": "脑袋虫姆克图",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "藤蔓",
+      "name": "藤蔓",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "焰生花",
+      "name": "焰生花",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "白骸龙王",
+      "name": "白骸龙王",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "利德尔首领",
+      "name": "利德尔首领",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "年轻的翡翠龙",
+      "name": "年轻的翡翠龙",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "大气史莱姆",
+      "name": "大气史莱姆",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "黏菌",
+      "name": "黏菌",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "史莱姆",
+      "name": "史莱姆",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "毛虫兵种",
+      "name": "毛虫兵种",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "视角生物",
+      "name": "视角生物",
+      "group": "主角",
+      "appearances": 1
+    },
+    {
+      "id": "翡翠龙之王",
+      "name": "翡翠龙之王",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "波塞冬龙",
+      "name": "波塞冬龙",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "鲨鱼型生物",
+      "name": "鲨鱼型生物",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "白色的生物",
+      "name": "白色的生物",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "监工",
+      "name": "监工",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "黑椒·探索之士",
+      "name": "黑椒·探索之士",
+      "group": "主角",
+      "appearances": 1
+    },
+    {
+      "id": "翡翠龙小工",
+      "name": "翡翠龙小工",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "卫兵队长",
+      "name": "卫兵队长",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "银色铠甲的龙",
+      "name": "银色铠甲的龙",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "白骸龙之岛",
+      "name": "白骸龙之岛",
+      "group": "地点",
+      "appearances": 1
+    },
+    {
+      "id": "食绒虫",
+      "name": "食绒虫",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "引路者",
+      "name": "引路者",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "鱼类",
+      "name": "鱼类",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "大气生物/史莱姆",
+      "name": "大气生物/史莱姆",
+      "group": "主要生物/冲突对象",
+      "appearances": 1
+    },
+    {
+      "id": "圣甲虫",
+      "name": "圣甲虫",
+      "group": "信息提供者",
+      "appearances": 1
+    },
+    {
+      "id": "大气生物",
+      "name": "大气生物",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "红锥形生物",
+      "name": "红锥形生物",
+      "group": "敌人",
+      "appearances": 1
+    },
+    {
+      "id": "生物/啤尔",
+      "name": "生物/啤尔",
+      "group": "主角",
+      "appearances": 1
+    },
+    {
+      "id": "惧翼",
+      "name": "惧翼",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "两个奇怪的生物",
+      "name": "两个奇怪的生物",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "冰山",
+      "name": "冰山",
+      "group": "未知",
+      "appearances": 1
+    },
+    {
+      "id": "银甲龙代表者",
+      "name": "银甲龙代表者",
+      "group": "中立角色",
+      "appearances": 1
+    },
+    {
+      "id": "金色飞虫",
+      "name": "金色飞虫",
+      "group": "盟友",
+      "appearances": 1
+    },
+    {
+      "id": "甲虫",
+      "name": "甲虫",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "翡翠龙队长",
+      "name": "翡翠龙队长",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "跃蝗",
+      "name": "跃蝗",
+      "group": "敌人",
+      "appearances": 1
+    },
+    {
+      "id": "瓦解者",
+      "name": "瓦解者",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "翡翠龙卫兵1",
+      "name": "翡翠龙卫兵1",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "翡翠龙卫兵2",
+      "name": "翡翠龙卫兵2",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "虫群",
+      "name": "虫群",
+      "group": "敌人",
+      "appearances": 1
+    },
+    {
+      "id": "模拟者",
+      "name": "模拟者",
+      "group": "辅助",
+      "appearances": 1
+    },
+    {
+      "id": "金色飞龙",
+      "name": "金色飞龙",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "结晶毛玉",
+      "name": "结晶毛玉",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "黑雾中的生物",
+      "name": "黑雾中的生物",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "合金蜘蛛",
+      "name": "合金蜘蛛",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "干瘪长老",
+      "name": "干瘪长老",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "结晶构造体",
+      "name": "结晶构造体",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "东边的结晶空间",
+      "name": "东边的结晶空间",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "干瘪领主",
+      "name": "干瘪领主",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "勇者(啤尔)",
+      "name": "勇者(啤尔)",
+      "group": "主角",
+      "appearances": 1
+    },
+    {
+      "id": "白骸龙的学院",
+      "name": "白骸龙的学院",
+      "group": "背景角色",
+      "appearances": 1
+    },
+    {
+      "id": "个性控制者",
+      "name": "个性控制者",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "芝麻",
+      "name": "芝麻",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "梦境冒险队",
+      "name": "梦境冒险队",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "蓝猩",
+      "name": "蓝猩",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "金色毛玉",
+      "name": "金色毛玉",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "猩红绒球",
+      "name": "猩红绒球",
+      "group": "辅助角色",
+      "appearances": 1
+    },
+    {
+      "id": "蝇型构造体",
+      "name": "蝇型构造体",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "泥尘",
+      "name": "泥尘",
+      "group": "怪物",
+      "appearances": 1
+    },
+    {
+      "id": "虚空冰山",
+      "name": "虚空冰山",
+      "group": "怪物",
+      "appearances": 1
+    },
+    {
+      "id": "拾荒者",
+      "name": "拾荒者",
+      "group": "生物",
+      "appearances": 1
+    },
+    {
+      "id": "红绒球",
+      "name": "红绒球",
+      "group": "工具",
+      "appearances": 1
+    },
+    {
+      "id": "战争队长",
+      "name": "战争队长",
+      "group": "主角",
+      "appearances": 1
+    },
+    {
+      "id": "联络兵",
+      "name": "联络兵",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "翡翠龙冲锋队长",
+      "name": "翡翠龙冲锋队长",
+      "group": "主角",
+      "appearances": 1
+    },
+    {
+      "id": "突击盾士",
+      "name": "突击盾士",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "血雾队长",
+      "name": "血雾队长",
+      "group": "重要角色",
+      "appearances": 1
+    },
+    {
+      "id": "烈焰使",
+      "name": "烈焰使",
+      "group": "援军",
+      "appearances": 1
+    },
+    {
+      "id": "它",
+      "name": "它",
+      "group": "主角",
+      "appearances": 1
+    },
+    {
+      "id": "绒毛",
+      "name": "绒毛",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "白色肥胖生物",
+      "name": "白色肥胖生物",
+      "group": "反派",
+      "appearances": 1
+    },
+    {
+      "id": "报告的虚民",
+      "name": "报告的虚民",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "远视镜观察员",
+      "name": "远视镜观察员",
+      "group": "配角",
+      "appearances": 1
+    },
+    {
+      "id": "塔兰图拉",
+      "name": "塔兰图拉",
+      "group": "主角",
+      "appearances": 1
+    },
+    {
+      "id": "尼莫",
+      "name": "尼莫",
+      "group": "配角",
+      "appearances": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "琳",
+      "target": "脑袋虫",
+      "type": "复杂混合（亲密中蕴含警惕，合作中暗藏潜在冲突）",
+      "strength": 8,
+      "description": [
+        "信息互补合作：脑袋虫提供碎片化知识，琳通过吞噬效率验证真伪",
+        "试探性验证：琳主动吞噬脑袋虫获取信息，触发认知升级",
+        "危机协同：能量危机时同步行动，共同应对环境威胁"
+      ]
+    },
+    {
+      "source": "琳",
+      "target": "苏苏米",
+      "type": "亲密友好与共生依赖的复杂混合",
+      "strength": 8,
+      "description": [
+        "合作共生",
+        "互补支持",
+        "依赖性互动"
+      ]
+    },
+    {
+      "source": "琳",
+      "target": "晶狂",
+      "type": "复杂混合（敌对主导，隐含共生依赖）",
+      "strength": 8,
+      "description": [
+        "资源竞争",
+        "生存威胁与反制",
+        "间接试探与信息博弈"
+      ]
+    },
+    {
+      "source": "琳",
+      "target": "创造者",
+      "type": "复杂混合（亲密与疏离并存，包含创造者-被创造者的深层纽带与潜在冲突）",
+      "strength": 8,
+      "description": [
+        "间接依赖（初期）",
+        "互补进化（中期）",
+        "潜在冲突与和解（后期）"
+      ]
+    },
+    {
+      "source": "琳",
+      "target": "贝希摩斯",
+      "type": "复杂混合（友好合作与潜在依赖冲突）",
+      "strength": 7,
+      "description": [
+        "互补合作",
+        "保护性依赖",
+        "间接协同"
+      ]
+    },
+    {
+      "source": "琳",
+      "target": "利维坦",
+      "type": "复杂混合（高度依赖与潜在对抗交织）",
+      "strength": 8,
+      "description": [
+        "依赖共生",
+        "工具化操作",
+        "隐性对抗"
+      ]
+    },
+    {
+      "source": "琳",
+      "target": "塔克",
+      "type": "复杂混合：共生与潜在冲突并存",
+      "strength": 8,
+      "description": [
+        "互补",
+        "冲突对抗",
+        "间接依赖"
+      ]
+    },
+    {
+      "source": "琳",
+      "target": "绒球",
+      "type": "共生依赖型亲密关系（兼具工具性与情感纽带）",
+      "strength": 8,
+      "description": [
+        "互补合作",
+        "工具性依赖",
+        "非对称支持"
+      ]
+    },
+    {
+      "source": "琳",
+      "target": "印加虫群",
+      "type": "复杂混合关系（敌对与进化共生）",
+      "strength": 7,
+      "description": [
+        "对抗性回避",
+        "能量互补",
+        "环境适应性博弈"
+      ]
+    },
+    {
+      "source": "琳",
+      "target": "穆克拉",
+      "type": "复杂亲密混合关系（兼具依赖、互补与潜在冲突）",
+      "strength": 8,
+      "description": [
+        "互补合作",
+        "信息依赖",
+        "情感支持",
+        "防御性协同"
+      ]
+    },
+    {
+      "source": "琳",
+      "target": "间谍",
+      "type": "共生型对抗与认知互补",
+      "strength": 7,
+      "description": [
+        "认知层面的本能对抗（吞噬本能 vs 幻觉操控）",
+        "共生式资源交换（结晶能量→认知进化）",
+        "隐秘守护与试探性信任（间谍暗中修正琳的幻觉路径）"
+      ]
+    },
+    {
+      "source": "琳",
+      "target": "侏儒",
+      "type": "复杂混合（信息提供者与被动触发者）",
+      "strength": 5,
+      "description": [
+        "间接信息传递",
+        "被动触发进化",
+        "单向知识流"
+      ]
+    },
+    {
+      "source": "琳",
+      "target": "教长",
+      "type": "敌对与复杂混合（基于核心冲突但存在微妙张力）",
+      "strength": 9,
+      "description": [
+        "对抗性竞争",
+        "间接象征性交流",
+        "互补性依赖（教长提供进化刺激，琳成为其存在危机）"
+      ]
+    },
+    {
+      "source": "琳",
+      "target": "挖掘者",
+      "type": "复杂混合（敌对与合作交织）",
+      "strength": 7,
+      "description": [
+        "对抗性竞争",
+        "互补性协作",
+        "单向依赖"
+      ]
+    },
+    {
+      "source": "琳",
+      "target": "蒙特二世",
+      "type": "复杂共生混合关系（包含依赖、互补与潜在冲突）",
+      "strength": 8,
+      "description": [
+        "互补依赖",
+        "共生合作",
+        "间接竞争"
+      ]
+    },
+    {
+      "source": "琳",
+      "target": "注酸者",
+      "type": "互补依赖型（工具化共生）",
+      "strength": 8,
+      "description": [
+        "功能互补",
+        "指令-执行依赖",
+        "协同进化"
+      ]
+    },
+    {
+      "source": "琳",
+      "target": "深沙巴士",
+      "type": "复杂敌对（表面敌对，深层存在进化性共生风险）",
+      "strength": 9,
+      "description": [
+        "对抗性吞噬",
+        "能量涟漪效应",
+        "意识干扰与反制"
+      ]
+    },
+    {
+      "source": "琳",
+      "target": "阿兹特克虫",
+      "type": "复杂混合（从敌对到共生合作）",
+      "strength": 7,
+      "description": [
+        "对抗性互动",
+        "互补性协调",
+        "共生性合作"
+      ]
+    },
+    {
+      "source": "琳",
+      "target": "锥形细胞",
+      "type": "复杂混合（亲密共生与潜在对抗）",
+      "strength": 6,
+      "description": [
+        "互补协作",
+        "防御性对抗",
+        "依赖共生"
+      ]
+    },
+    {
+      "source": "脑袋虫",
+      "target": "苏苏米",
+      "type": "复杂混合（互补依赖与信任共生）",
+      "strength": 8,
+      "description": [
+        "互补依赖",
+        "问题解决导向",
+        "信息传递与执行闭环"
+      ]
+    },
+    {
+      "source": "脑袋虫",
+      "target": "晶狂",
+      "type": "复杂混合（合作依赖与隐性敌对）",
+      "strength": 8,
+      "description": [
+        "信息交换型合作",
+        "工具性依赖",
+        "隐性对抗"
+      ]
+    },
+    {
+      "source": "脑袋虫",
+      "target": "创造者",
+      "type": "复杂混合（既有依赖性又含微妙张力）",
+      "strength": 8,
+      "description": [
+        "互补合作",
+        "信息交换主导",
+        "隐性试探与验证"
+      ]
+    },
+    {
+      "source": "脑袋虫",
+      "target": "贝希摩斯",
+      "type": "复杂混合型（合作与隐性博弈并存）",
+      "strength": 8,
+      "description": [
+        "信息互补型协作",
+        "危机触发式依赖",
+        "隐性试探性对话"
+      ]
+    },
+    {
+      "source": "脑袋虫",
+      "target": "塔克",
+      "type": "复杂混合（合作与潜在冲突交织）",
+      "strength": 8,
+      "description": [
+        "信息交换型合作",
+        "试探性依赖",
+        "危机响应协作"
+      ]
+    },
+    {
+      "source": "脑袋虫",
+      "target": "绒球",
+      "type": "互补依赖型友好关系",
+      "strength": 8,
+      "description": [
+        "信息提供与执行互补",
+        "依赖与互惠协作"
+      ]
+    },
+    {
+      "source": "脑袋虫",
+      "target": "印加虫群",
+      "type": "复杂混合（互补合作与隐性依赖）",
+      "strength": 7,
+      "description": [
+        "互补合作",
+        "信息交换与执行配合",
+        "隐性依赖"
+      ]
+    },
+    {
+      "source": "脑袋虫",
+      "target": "穆克拉",
+      "type": "互补合作与信息依赖的混合关系",
+      "strength": 8,
+      "description": [
+        "互补协作（信息提供与传递的分工）",
+        "间接依赖（通过特定词语和行动协调）",
+        "危机响应（在战斗中快速联动）"
+      ]
+    },
+    {
+      "source": "脑袋虫",
+      "target": "间谍",
+      "type": "复杂混合（依赖与操控并存）",
+      "strength": 7,
+      "description": [
+        "互补依赖",
+        "单向操控",
+        "间接信息交换"
+      ]
+    },
+    {
+      "source": "脑袋虫",
+      "target": "侏儒",
+      "type": "复杂混合关系（信息交换与微妙信任，隐含道德冲突）",
+      "strength": 7,
+      "description": [
+        "互补信息交换",
+        "间接合作",
+        "潜在依赖与试探",
+        "隐性对抗"
+      ]
+    },
+    {
+      "source": "脑袋虫",
+      "target": "教长",
+      "type": "复杂混合（工具性依赖下的动态共生）",
+      "strength": 8,
+      "description": [
+        "工具性依赖",
+        "信息操控与反制",
+        "隐性对抗与表面协作"
+      ]
+    },
+    {
+      "source": "脑袋虫",
+      "target": "挖掘者",
+      "type": "复杂混合关系（信息提供者与行动者的互补共生，夹杂隐性敌对与依赖）",
+      "strength": 7,
+      "description": [
+        "互补协作（信息与行动的分工）",
+        "短暂对抗（基于攻击本能的冲突）",
+        "单向依赖（挖掘者依赖信息，脑袋虫依赖行动支持）"
+      ]
+    },
+    {
+      "source": "脑袋虫",
+      "target": "蒙特二世",
+      "type": "互补性依赖关系（知识提供者与行动执行者的动态平衡）",
+      "strength": 8,
+      "description": [
+        "信息交换与验证",
+        "非对称依赖",
+        "危机情境下的协同应对"
+      ]
+    },
+    {
+      "source": "脑袋虫",
+      "target": "注酸者",
+      "type": "互补合作型（信息与执行的动态平衡）",
+      "strength": 8,
+      "description": [
+        "互补协作",
+        "策略-执行分工",
+        "风险共担"
+      ]
+    },
+    {
+      "source": "脑袋虫",
+      "target": "深沙巴士",
+      "type": "复杂混合（敌对中隐含信息依赖）",
+      "strength": 8,
+      "description": [
+        "信息控制与反制",
+        "非对称性对抗",
+        "环境依赖型互动"
+      ]
+    },
+    {
+      "source": "脑袋虫",
+      "target": "阿兹特克虫",
+      "type": "互补性依赖与微妙共生",
+      "strength": 7,
+      "description": [
+        "信息互补型合作",
+        "依赖性支持",
+        "有限冲突与和解"
+      ]
+    },
+    {
+      "source": "脑袋虫",
+      "target": "锥形细胞",
+      "type": "复杂混合（互补依赖与潜在冲突交织）",
+      "strength": 7,
+      "description": [
+        "互补协作",
+        "单向依赖",
+        "危机中的临时对抗"
+      ]
+    },
+    {
+      "source": "苏苏米",
+      "target": "晶狂",
+      "type": "复杂混合（亲密与敌对并存的动态关系）",
+      "strength": 8,
+      "description": [
+        "对抗性依赖",
+        "互补性救赎",
+        "隐性合作"
+      ]
+    },
+    {
+      "source": "苏苏米",
+      "target": "创造者",
+      "type": "亲密、友好、复杂混合",
+      "strength": 8,
+      "description": [
+        "依赖与指导",
+        "学习与传授",
+        "合作与守护"
+      ]
+    },
+    {
+      "source": "苏苏米",
+      "target": "贝希摩斯",
+      "type": "互补性依赖与保护者-被保护者混合",
+      "strength": 8,
+      "description": [
+        "互补支持",
+        "任务导向协作",
+        "情感依赖与回应"
+      ]
+    },
+    {
+      "source": "苏苏米",
+      "target": "利维坦",
+      "type": "复杂混合（亲密合作与潜在敌对交织）",
+      "strength": 8,
+      "description": [
+        "互补协作",
+        "保护性依赖",
+        "战术性对抗"
+      ]
+    },
+    {
+      "source": "苏苏米",
+      "target": "塔克",
+      "type": "复杂混合（保护者-被保护者关系，伴随深度互信与隐性冲突）",
+      "strength": 8,
+      "description": [
+        "互补性依赖",
+        "合作性对抗",
+        "情感化协作"
+      ]
+    },
+    {
+      "source": "苏苏米",
+      "target": "绒球",
+      "type": "亲密、互补、动态共生",
+      "strength": 8,
+      "description": [
+        "互补协作",
+        "保护性互助",
+        "学习型依赖"
+      ]
+    },
+    {
+      "source": "苏苏米",
+      "target": "印加虫群",
+      "type": "复杂混合（共生合作与潜在敌对）",
+      "strength": 7,
+      "description": [
+        "互补协作",
+        "间接依赖",
+        "周期性试探"
+      ]
+    },
+    {
+      "source": "苏苏米",
+      "target": "穆克拉",
+      "type": "亲密、友好、互补",
+      "strength": 8,
+      "description": [
+        "互补合作",
+        "指导与学习",
+        "紧急响应配合"
+      ]
+    },
+    {
+      "source": "苏苏米",
+      "target": "间谍",
+      "type": "复杂混合（亲密与敌对交织）",
+      "strength": 8,
+      "description": [
+        "互补依赖",
+        "潜在对抗",
+        "信息不对称合作"
+      ]
+    },
+    {
+      "source": "苏苏米",
+      "target": "侏儒",
+      "type": "复杂混合（亲密与敌对交织）",
+      "strength": 7,
+      "description": [
+        "依赖与试探",
+        "间接合作与隐性对抗",
+        "保护性互动"
+      ]
+    },
+    {
+      "source": "苏苏米",
+      "target": "教长",
+      "type": "复杂混合（敌对为主，但隐含潜在互动与微妙张力）",
+      "strength": 8,
+      "description": [
+        "直接对抗",
+        "试探性互动",
+        "单向压制"
+      ]
+    },
+    {
+      "source": "苏苏米",
+      "target": "挖掘者",
+      "type": "复杂混合（敌对转友好，伴随动态张力）",
+      "strength": 7,
+      "description": [
+        "对抗",
+        "互补",
+        "依赖"
+      ]
+    },
+    {
+      "source": "苏苏米",
+      "target": "蒙特二世",
+      "type": "复杂混合（敌对转亲密合作）",
+      "strength": 8,
+      "description": [
+        "互补协作",
+        "阶段性对抗",
+        "互惠依赖"
+      ]
+    },
+    {
+      "source": "苏苏米",
+      "target": "注酸者",
+      "type": "复杂混合（既有功能性依赖，又隐含情感纽带）",
+      "strength": 8,
+      "description": [
+        "互补依赖",
+        "指令-执行协作",
+        "危机响应型合作"
+      ]
+    },
+    {
+      "source": "苏苏米",
+      "target": "深沙巴士",
+      "type": "敌对混合（以敌对为主，夹杂潜在共生可能）",
+      "strength": 7,
+      "description": [
+        "对抗性追逐",
+        "逃避与求助",
+        "本能威慑与策略性应变"
+      ]
+    },
+    {
+      "source": "苏苏米",
+      "target": "阿兹特克虫",
+      "type": "复杂混合（从敌对到互助的动态关系）",
+      "strength": 8,
+      "description": [
+        "互补协作",
+        "依赖与保护",
+        "冲突化解"
+      ]
+    },
+    {
+      "source": "苏苏米",
+      "target": "锥形细胞",
+      "type": "复杂混合（敌对与依赖交织）",
+      "strength": 7,
+      "description": [
+        "对抗性依赖",
+        "情境性合作",
+        "本能触发响应"
+      ]
+    },
+    {
+      "source": "晶狂",
+      "target": "创造者",
+      "type": "复杂混合（敌对与扭曲依赖的共生关系）",
+      "strength": 9,
+      "description": [
+        "对抗性依赖",
+        "象征性试探",
+        "沉默性威慑"
+      ]
+    },
+    {
+      "source": "晶狂",
+      "target": "利维坦",
+      "type": "复杂混合（敌对为主，隐含共生依赖）",
+      "strength": 9,
+      "description": [
+        "对抗性追逐",
+        "本能防御与攻击",
+        "资源争夺性依赖"
+      ]
+    },
+    {
+      "source": "晶狂",
+      "target": "塔克",
+      "type": "复杂混合（敌对为主，隐含潜在合作可能）",
+      "strength": 8,
+      "description": [
+        "对抗性冲突",
+        "互补性制约",
+        "临时性利益协调"
+      ]
+    },
+    {
+      "source": "晶狂",
+      "target": "绒球",
+      "type": "复杂混合（依赖与对抗交织）",
+      "strength": 8,
+      "description": [
+        "依赖性利用",
+        "对抗性博弈",
+        "互补性协作"
+      ]
+    },
+    {
+      "source": "晶狂",
+      "target": "印加虫群",
+      "type": "复杂混合（敌对与短暂合作）",
+      "strength": 8,
+      "description": [
+        "对抗性互动（晶狂攻击虫群以夺取结晶）",
+        "互补性互动（晶狂利用虫群搬运能力获取资源）",
+        "周期性合作（在外部威胁下短暂联合）"
+      ]
+    },
+    {
+      "source": "晶狂",
+      "target": "穆克拉",
+      "type": "复杂混合（亲密但充满张力的依赖关系）",
+      "strength": 8,
+      "description": [
+        "互补协作",
+        "依赖性冲突",
+        "隐性保护与质疑"
+      ]
+    },
+    {
+      "source": "晶狂",
+      "target": "间谍",
+      "type": "复杂混合（敌对与操控性依赖交织）",
+      "strength": 8,
+      "description": [
+        "对抗性追逐",
+        "幻觉操控与反制",
+        "间接依赖"
+      ]
+    },
+    {
+      "source": "晶狂",
+      "target": "侏儒",
+      "type": "复杂混合（敌对为主，隐含潜在合作与救赎可能）",
+      "strength": 8,
+      "description": [
+        "对抗性追逐",
+        "间接信息传递",
+        "信任破裂与试探"
+      ]
+    },
+    {
+      "source": "晶狂",
+      "target": "教长",
+      "type": "复杂对抗",
+      "strength": 9,
+      "description": [
+        "对抗性主导",
+        "间接试探性行动",
+        "单向压迫"
+      ]
+    },
+    {
+      "source": "晶狂",
+      "target": "挖掘者",
+      "type": "复杂混合（工具化依赖与潜在对抗）",
+      "strength": 9,
+      "description": [
+        "工具化利用与被动服从",
+        "本能对抗与策略性合作",
+        "目标驱动下的临时联盟"
+      ]
+    },
+    {
+      "source": "晶狂",
+      "target": "蒙特二世",
+      "type": "复杂混合（敌对与共生交织）",
+      "strength": 8,
+      "description": [
+        "对抗性捕获",
+        "条件性依赖",
+        "偶然共生合作"
+      ]
+    },
+    {
+      "source": "晶狂",
+      "target": "注酸者",
+      "type": "复杂混合（依赖与工具化交织的紧张共生关系）",
+      "strength": 7,
+      "description": [
+        "工具化依赖",
+        "被动协作",
+        "隐性对抗",
+        "目标导向互补"
+      ]
+    },
+    {
+      "source": "晶狂",
+      "target": "深沙巴士",
+      "type": "敌对（复杂混合）",
+      "strength": 9,
+      "description": [
+        "对抗",
+        "追逐与逃亡",
+        "本能防御与主动攻击",
+        "间接信息传递"
+      ]
+    },
+    {
+      "source": "晶狂",
+      "target": "阿兹特克虫",
+      "type": "复杂混合（敌对与潜在共生交织）",
+      "strength": 8,
+      "description": [
+        "对抗性竞争",
+        "单向依赖",
+        "本能防御"
+      ]
+    },
+    {
+      "source": "晶狂",
+      "target": "锥形细胞",
+      "type": "复杂混合（依赖与对抗）",
+      "strength": 7.5,
+      "description": [
+        "依赖合作",
+        "对抗冲突",
+        "工具化利用"
+      ]
+    },
+    {
+      "source": "创造者",
+      "target": "贝希摩斯",
+      "type": "复杂混合关系（既有创造者-被创造者的权威层级，又有基于任务的互补依赖）",
+      "strength": 8,
+      "description": [
+        "互补合作",
+        "依赖性支持",
+        "任务导向的指令-服从模式"
+      ]
+    },
+    {
+      "source": "创造者",
+      "target": "利维坦",
+      "type": "复杂混合，包含创造与被创造的张力、依赖与反抗的悖论",
+      "strength": 8,
+      "description": [
+        "互补",
+        "对抗",
+        "依赖",
+        "进化式交互"
+      ]
+    },
+    {
+      "source": "创造者",
+      "target": "塔克",
+      "type": "复杂混合（敬畏与依赖交织，隐含潜在冲突）",
+      "strength": 8,
+      "description": [
+        "互补依赖",
+        "间接象征性沟通",
+        "保护与被保护的双向张力"
+      ]
+    },
+    {
+      "source": "创造者",
+      "target": "绒球",
+      "type": "复杂混合（创造与被造的亲密关系，兼具依赖、忠诚与隐性张力）",
+      "strength": 8,
+      "description": [
+        "依赖与保护",
+        "互补合作",
+        "隐性试探与验证"
+      ]
+    },
+    {
+      "source": "创造者",
+      "target": "印加虫群",
+      "type": "复杂混合（兼具创造者的权威性、印加虫群的自主性与潜在冲突性）",
+      "strength": 7,
+      "description": [
+        "互补依赖（创造者提供生命基础，印加虫群执行生态功能）",
+        "间接对抗（通过行动而非言语的隐性冲突）",
+        "循环调整（创造者干预后，印加虫群适应性改变）"
+      ]
+    },
+    {
+      "source": "创造者",
+      "target": "穆克拉",
+      "type": "复杂混合（创造者-造物主与忠诚信使的共生关系）",
+      "strength": 8,
+      "description": [
+        "互补协作",
+        "单向指令-执行",
+        "隐性情感互动"
+      ]
+    },
+    {
+      "source": "创造者",
+      "target": "间谍",
+      "type": "复杂混合（敌对与潜在合作交织）",
+      "strength": 7,
+      "description": [
+        "对抗",
+        "间接依赖",
+        "互补但扭曲"
+      ]
+    },
+    {
+      "source": "创造者",
+      "target": "侏儒",
+      "type": "复杂混合（创造者-被创造者关系与潜在冲突）",
+      "strength": 8,
+      "description": [
+        "冲突性回避",
+        "间接依赖",
+        "被动合作"
+      ]
+    },
+    {
+      "source": "创造者",
+      "target": "教长",
+      "type": "复杂敌对与扭曲共生",
+      "strength": 8,
+      "description": [
+        "直接对抗",
+        "隐性试探",
+        "行动模仿与反制"
+      ]
+    },
+    {
+      "source": "创造者",
+      "target": "蒙特二世",
+      "type": "复杂混合（既有创造者的主导性，又有蒙特二世的独立性与潜在冲突）",
+      "strength": 7,
+      "description": [
+        "合作互补",
+        "隐性对抗",
+        "依赖与挑战并存"
+      ]
+    },
+    {
+      "source": "创造者",
+      "target": "注酸者",
+      "type": "复杂混合：创造者与被造物的工具性依赖关系，兼具功能性协作与潜在意识冲突",
+      "strength": 7,
+      "description": [
+        "工具性依赖",
+        "命令-执行模式",
+        "本能响应与被动服从"
+      ]
+    },
+    {
+      "source": "创造者",
+      "target": "深沙巴士",
+      "type": "复杂对抗混合关系（表面敌对中隐含创造者的责任与深沙的宿命性反抗）",
+      "strength": 8,
+      "description": [
+        "创造与破坏的永恒循环",
+        "防御性压制与突破性扩张",
+        "隐性规则制定与规则挑战"
+      ]
+    },
+    {
+      "source": "创造者",
+      "target": "阿兹特克虫",
+      "type": "创造者与被造物的共生关系",
+      "strength": 8,
+      "description": [
+        "非对称协作",
+        "隐性依赖",
+        "角色认知迭代"
+      ]
+    },
+    {
+      "source": "创造者",
+      "target": "锥形细胞",
+      "type": "复杂混合（创造者与被创造者的张力关系，兼具父性责任与对抗性冲突）",
+      "strength": 7,
+      "description": [
+        "间接控制（创造者通过自然法则隐性干预）",
+        "对抗性互动（锥形细胞攻击行为引发冲突）",
+        "修复性合作（创造者在危机时介入修正）"
+      ]
+    },
+    {
+      "source": "贝希摩斯",
+      "target": "利维坦",
+      "type": "亲密合作与相互依赖的共生关系",
+      "strength": 8,
+      "description": [
+        "互补协作",
+        "风险共担",
+        "非语言默契"
+      ]
+    },
+    {
+      "source": "贝希摩斯",
+      "target": "塔克",
+      "type": "complex mixed: cooperative with underlying tensions",
+      "strength": 7,
+      "description": [
+        "complementary roles",
+        "mutual reliance",
+        "strategic coordination"
+      ]
+    },
+    {
+      "source": "贝希摩斯",
+      "target": "绒球",
+      "type": "功能性互补合作",
+      "strength": 7,
+      "description": [
+        "互补协作",
+        "任务导向互助",
+        "间接行为反馈"
+      ]
+    },
+    {
+      "source": "贝希摩斯",
+      "target": "印加虫群",
+      "type": "复杂混合（互补合作与潜在敌意交织）",
+      "strength": 8,
+      "description": [
+        "互补协作",
+        "任务导向协同",
+        "间接信号互动"
+      ]
+    },
+    {
+      "source": "贝希摩斯",
+      "target": "穆克拉",
+      "type": "互补合作型（含深层信任与潜在张力）",
+      "strength": 8,
+      "description": [
+        "互补协作",
+        "战术性依赖",
+        "隐性竞争"
+      ]
+    },
+    {
+      "source": "贝希摩斯",
+      "target": "间谍",
+      "type": "复杂混合（敌对与合作交织）",
+      "strength": 8,
+      "description": [
+        "对抗性合作",
+        "互补依赖",
+        "试探性信任"
+      ]
+    },
+    {
+      "source": "贝希摩斯",
+      "target": "侏儒",
+      "type": "复杂混合（敌对与互补协作交织）",
+      "strength": 7,
+      "description": [
+        "对抗性合作",
+        "任务驱动的间接依赖",
+        "隐性试探与戒备"
+      ]
+    },
+    {
+      "source": "贝希摩斯",
+      "target": "教长",
+      "type": "复杂混合（依赖与对抗并存）",
+      "strength": 7,
+      "description": [
+        "功能依赖",
+        "间接对抗",
+        "指令式命令",
+        "被动服从与隐性反抗"
+      ]
+    },
+    {
+      "source": "贝希摩斯",
+      "target": "挖掘者",
+      "type": "复杂混合（互补合作与潜在对抗）",
+      "strength": 7,
+      "description": [
+        "互补性任务协作",
+        "间接性对抗",
+        "依赖性共生"
+      ]
+    },
+    {
+      "source": "贝希摩斯",
+      "target": "蒙特二世",
+      "type": "复杂混合（亲密与依赖交织，但隐含潜在冲突）",
+      "strength": 8,
+      "description": [
+        "互补合作",
+        "间接依赖",
+        "冲突性协调"
+      ]
+    },
+    {
+      "source": "贝希摩斯",
+      "target": "注酸者",
+      "type": "互补合作混合关系",
+      "strength": 7,
+      "description": [
+        "任务协同互补",
+        "工具-平台依赖",
+        "危机响应配合"
+      ]
+    },
+    {
+      "source": "贝希摩斯",
+      "target": "深沙巴士",
+      "type": "敌对性混合关系（以对抗为主，夹杂策略性试探与潜在隐秘合作）",
+      "strength": 8,
+      "description": [
+        "对抗性回避",
+        "战术性信息交换",
+        "间接合作（基于共同目标）"
+      ]
+    },
+    {
+      "source": "贝希摩斯",
+      "target": "阿兹特克虫",
+      "type": "互补友好、依赖共生关系",
+      "strength": 7,
+      "description": [
+        "互补合作",
+        "间接依赖",
+        "任务导向协调"
+      ]
+    },
+    {
+      "source": "贝希摩斯",
+      "target": "锥形细胞",
+      "type": "复杂混合（互补依赖与功能协同）",
+      "strength": 7,
+      "description": [
+        "功能互补（运输与攻击协同）",
+        "防御性依赖（贝希摩斯保护锥形细胞）",
+        "任务协调（动态调整任务分配）"
+      ]
+    },
+    {
+      "source": "利维坦",
+      "target": "塔克",
+      "type": "复杂混合（亲密与敌对交织的共生关系）",
+      "strength": 8,
+      "description": [
+        "互补性合作（利维坦提供防御，塔克提供生存资源）",
+        "间接对抗（通过环境信号暗示威胁）",
+        "信息交换（非语言沟通主导）"
+      ]
+    },
+    {
+      "source": "利维坦",
+      "target": "绒球",
+      "type": "亲密、互补、动态混合关系（以合作为主，隐含保护与依赖的复杂性）",
+      "strength": 8,
+      "description": [
+        "互补协作",
+        "互为支撑",
+        "隐性竞争"
+      ]
+    },
+    {
+      "source": "利维坦",
+      "target": "印加虫群",
+      "type": "复杂混合（敌对为主，但存在互补与临时合作）",
+      "strength": 8,
+      "description": [
+        "对抗性竞争",
+        "间接互补",
+        "条件性合作",
+        "本能性试探"
+      ]
+    },
+    {
+      "source": "利维坦",
+      "target": "穆克拉",
+      "type": "互补合作型（动态混合关系，包含深度信任与潜在张力）",
+      "strength": 8,
+      "description": [
+        "互补合作",
+        "间接依赖",
+        "战斗协同",
+        "信息交换"
+      ]
+    },
+    {
+      "source": "利维坦",
+      "target": "间谍",
+      "type": "复杂混合（敌对与试探性合作交织）",
+      "strength": 8,
+      "description": [
+        "对抗性试探",
+        "间接依赖",
+        "危机驱动合作"
+      ]
+    },
+    {
+      "source": "利维坦",
+      "target": "侏儒",
+      "type": "复杂混合（亲密与敌对交织）",
+      "strength": 7,
+      "description": [
+        "互补依赖",
+        "间接合作",
+        "信息博弈"
+      ]
+    },
+    {
+      "source": "利维坦",
+      "target": "教长",
+      "type": "敌对性共生关系",
+      "strength": 8.5,
+      "description": [
+        "生存本能对抗",
+        "科技理性与有机生命的本质冲突",
+        "繁殖能力与控制欲的镜像博弈"
+      ]
+    },
+    {
+      "source": "利维坦",
+      "target": "挖掘者",
+      "type": "复杂混合（亲密与敌对并存）",
+      "strength": 8,
+      "description": [
+        "功能互补合作",
+        "资源竞争对抗",
+        "本能驱动协同"
+      ]
+    },
+    {
+      "source": "利维坦",
+      "target": "蒙特二世",
+      "type": "complex hybrid (symbiotic with underlying tension)",
+      "strength": 8,
+      "description": [
+        "cooperative symbiosis",
+        "competitive resource allocation",
+        "mutually reinforcing behaviors"
+      ]
+    },
+    {
+      "source": "利维坦",
+      "target": "注酸者",
+      "type": "亲密合作型（工具依赖与共生混合）",
+      "strength": 8,
+      "description": [
+        "互补合作",
+        "功能依赖",
+        "任务协同"
+      ]
+    },
+    {
+      "source": "利维坦",
+      "target": "深沙巴士",
+      "type": "复杂混合（敌对为主，隐含共生与进化竞争）",
+      "strength": 9,
+      "description": [
+        "对抗性竞争",
+        "防御性互补",
+        "生存本能驱动的被动依赖"
+      ]
+    },
+    {
+      "source": "利维坦",
+      "target": "阿兹特克虫",
+      "type": "复杂混合（从敌对转向深度共生合作）",
+      "strength": 8,
+      "description": [
+        "对抗性回避",
+        "互补性协作",
+        "防御性共生"
+      ]
+    },
+    {
+      "source": "利维坦",
+      "target": "锥形细胞",
+      "type": "复杂混合（亲密共生但隐含敌对元素）",
+      "strength": 8,
+      "description": [
+        "功能依赖",
+        "协同攻击",
+        "危机性互补"
+      ]
+    },
+    {
+      "source": "塔克",
+      "target": "绒球",
+      "type": "复杂混合（亲密与敌对交织的共生关系）",
+      "strength": 8,
+      "description": [
+        "互补性合作",
+        "间接试探性互动",
+        "危机中的本能依赖"
+      ]
+    },
+    {
+      "source": "塔克",
+      "target": "印加虫群",
+      "type": "复杂混合（共生竞争）",
+      "strength": 7,
+      "description": [
+        "资源交换共生",
+        "领域边界试探",
+        "危机中的临时结盟"
+      ]
+    },
+    {
+      "source": "塔克",
+      "target": "穆克拉",
+      "type": "complex mixed",
+      "strength": 8,
+      "description": [
+        "complementary cooperation",
+        "hierarchical trust",
+        "periodic conflict resolution"
+      ]
+    },
+    {
+      "source": "塔克",
+      "target": "间谍",
+      "type": "复杂混合（既有合作又有潜在敌对元素）",
+      "strength": 7,
+      "description": [
+        "互补性合作",
+        "隐性对抗"
+      ]
+    },
+    {
+      "source": "塔克",
+      "target": "侏儒",
+      "type": "复杂混合（部分合作与潜在敌对）",
+      "strength": 8,
+      "description": [
+        "间接交流（通过行为而非言语）",
+        "互补协作（依赖彼此专长）",
+        "潜在敌对（因信任缺失引发的紧张）"
+      ]
+    },
+    {
+      "source": "塔克",
+      "target": "教长",
+      "type": "敌对与保护的复杂混合",
+      "strength": 8,
+      "description": [
+        "对抗性行为",
+        "防御性策略互动",
+        "间接象征性沟通"
+      ]
+    },
+    {
+      "source": "塔克",
+      "target": "挖掘者",
+      "type": "复杂混合（合作与敌对并存）",
+      "strength": 8,
+      "description": [
+        "互补合作（塔克指挥防御，挖掘者执行攻击）",
+        "潜在对抗（挖掘者本能攻击性与塔克保护主义冲突）",
+        "协调配合（在食物短缺时共享资源）"
+      ]
+    },
+    {
+      "source": "塔克",
+      "target": "蒙特二世",
+      "type": "复杂混合（敌对与合作交织）",
+      "strength": 8,
+      "description": [
+        "对抗性竞争",
+        "间接互补依赖",
+        "危机驱动合作"
+      ]
+    },
+    {
+      "source": "塔克",
+      "target": "注酸者",
+      "type": "复杂混合",
+      "strength": 7,
+      "description": [
+        "互补合作",
+        "工具性依赖",
+        "潜在对抗"
+      ]
+    },
+    {
+      "source": "塔克",
+      "target": "深沙巴士",
+      "type": "敌对但存在复杂的动态张力与潜在理解空间",
+      "strength": 8,
+      "description": [
+        "直接对抗",
+        "策略性规避",
+        "间接威慑"
+      ]
+    },
+    {
+      "source": "塔克",
+      "target": "阿兹特克虫",
+      "type": "共生性依赖与潜在冲突的复杂混合",
+      "strength": 7,
+      "description": [
+        "资源争夺与共享",
+        "防御性协作",
+        "信息互补",
+        "危机预警互换"
+      ]
+    },
+    {
+      "source": "塔克",
+      "target": "锥形细胞",
+      "type": "复杂敌对关系",
+      "strength": 8,
+      "description": [
+        "对抗性互动",
+        "防御性回避",
+        "临时性间接合作"
+      ]
+    },
+    {
+      "source": "绒球",
+      "target": "印加虫群",
+      "type": "复杂混合（既有合作又有竞争，情感纽带随危机加深）",
+      "strength": 8,
+      "description": [
+        "资源互补型合作",
+        "防御性对抗",
+        "危机中的被迫协作"
+      ]
+    },
+    {
+      "source": "绒球",
+      "target": "穆克拉",
+      "type": "亲密、互补、动态合作",
+      "strength": 8,
+      "description": [
+        "互补协作",
+        "互惠依赖",
+        "危机响应"
+      ]
+    },
+    {
+      "source": "绒球",
+      "target": "间谍",
+      "type": "复杂混合（初期敌对，中期合作，后期深度互信）",
+      "strength": 8,
+      "description": [
+        "互补协作",
+        "间歇性对抗",
+        "非语言默契配合"
+      ]
+    },
+    {
+      "source": "绒球",
+      "target": "侏儒",
+      "type": "复杂混合（包含合作、潜在敌对和互补依赖）",
+      "strength": 7,
+      "description": [
+        "互补合作",
+        "间接对抗",
+        "基于目标的临时联盟"
+      ]
+    },
+    {
+      "source": "绒球",
+      "target": "教长",
+      "type": "复杂对抗与潜在共生（敌对为主，隐含深层理解）",
+      "strength": 8,
+      "description": [
+        "对抗主导",
+        "间接策略性互动",
+        "短暂共生合作"
+      ]
+    },
+    {
+      "source": "绒球",
+      "target": "挖掘者",
+      "type": "复杂混合（合作与竞争并存）",
+      "strength": 8,
+      "description": [
+        "互补合作（挖掘者刮除食物，绒球抓取物品）",
+        "竞争对抗（争夺资源或空间时爆发冲突）",
+        "适应性协调（基于功能差异的即时调整）"
+      ]
+    },
+    {
+      "source": "绒球",
+      "target": "注酸者",
+      "type": "互补协作型亲密关系",
+      "strength": 8,
+      "description": [
+        "功能互补",
+        "应急协同",
+        "隐性依赖",
+        "风险共担"
+      ]
+    },
+    {
+      "source": "绒球",
+      "target": "深沙巴士",
+      "type": "复杂混合（以敌对为主，夹杂短暂互补与意外共生）",
+      "strength": 8,
+      "description": [
+        "对抗性回避",
+        "策略性利用",
+        "被动防御",
+        "意外共生"
+      ]
+    },
+    {
+      "source": "绒球",
+      "target": "阿兹特克虫",
+      "type": "复杂混合（竞争性共生）",
+      "strength": 7,
+      "description": [
+        "竞争性试探",
+        "危机协作",
+        "防御性戒备"
+      ]
+    },
+    {
+      "source": "绒球",
+      "target": "锥形细胞",
+      "type": "复杂混合（合作与对抗交织）",
+      "strength": 8,
+      "description": [
+        "互补合作（绒球抓取资源，锥形细胞攻击解围）",
+        "对抗竞争（功能冲突导致短暂敌对）",
+        "依赖共生（锥形细胞抗溶解液不稳定时，绒球提供变色伪装保护）"
+      ]
+    },
+    {
+      "source": "印加虫群",
+      "target": "穆克拉",
+      "type": "复杂混合（合作为主，隐含潜在张力）",
+      "strength": 8,
+      "description": [
+        "互补协作",
+        "间接支持",
+        "危机响应协同"
+      ]
+    },
+    {
+      "source": "印加虫群",
+      "target": "间谍",
+      "type": "复杂混合（既有依赖合作又有潜在敌意）",
+      "strength": 7,
+      "description": [
+        "互补合作",
+        "间接对抗",
+        "工具性依赖"
+      ]
+    },
+    {
+      "source": "印加虫群",
+      "target": "侏儒",
+      "type": "复杂混合（依赖与对抗并存）",
+      "strength": 8,
+      "description": [
+        "间接依赖",
+        "隐性对抗",
+        "互补性利用"
+      ]
+    },
+    {
+      "source": "印加虫群",
+      "target": "教长",
+      "type": "敌对与控制的复杂混合",
+      "strength": 8,
+      "description": [
+        "对抗主导",
+        "控制与反制",
+        "被迫协作"
+      ]
+    },
+    {
+      "source": "印加虫群",
+      "target": "挖掘者",
+      "type": "复杂混合（协作与竞争并存）",
+      "strength": 8,
+      "description": [
+        "互补协作（挖掘者刮除食物，印加虫群搬运）",
+        "资源竞争（争夺有限食物来源）",
+        "防御性对抗（挖掘者攻击性触发冲突）"
+      ]
+    },
+    {
+      "source": "印加虫群",
+      "target": "蒙特二世",
+      "type": "共生合作与互补依赖",
+      "strength": 8,
+      "description": [
+        "互惠合作",
+        "功能互补",
+        "生存依赖"
+      ]
+    },
+    {
+      "source": "印加虫群",
+      "target": "注酸者",
+      "type": "功能互补型协作关系",
+      "strength": 8,
+      "description": [
+        "任务分工协作（注酸者溶解障碍→印加虫群搬运猎物）",
+        "非语言指令响应（酸液喷射触发虫群行动模式）",
+        "资源交换依赖（黑蜂运输酸液残余以维持注酸者活性）"
+      ]
+    },
+    {
+      "source": "印加虫群",
+      "target": "深沙巴士",
+      "type": "复杂混合（敌对与微妙共生）",
+      "strength": 9,
+      "description": [
+        "对抗性回避",
+        "资源争夺与间接利用",
+        "战术性试探与信息收集"
+      ]
+    },
+    {
+      "source": "印加虫群",
+      "target": "阿兹特克虫",
+      "type": "复杂混合（互补合作与竞争性依赖）",
+      "strength": 8,
+      "description": [
+        "互补合作",
+        "竞争性依赖",
+        "间接对抗"
+      ]
+    },
+    {
+      "source": "印加虫群",
+      "target": "锥形细胞",
+      "type": "复杂混合（以敌对为主，夹杂有限互补）",
+      "strength": 8,
+      "description": [
+        "对抗性冲突",
+        "有限互补协作",
+        "间接威胁互动"
+      ]
+    },
+    {
+      "source": "穆克拉",
+      "target": "间谍",
+      "type": "复杂混合（合作与潜在敌对交织）",
+      "strength": 8,
+      "description": [
+        "互补合作",
+        "间接依赖",
+        "试探性信任"
+      ]
+    },
+    {
+      "source": "穆克拉",
+      "target": "侏儒",
+      "type": "复杂混合（既有合作又有潜在敌意）",
+      "strength": 8,
+      "description": [
+        "互补合作",
+        "间接对抗",
+        "信息交换依赖"
+      ]
+    },
+    {
+      "source": "穆克拉",
+      "target": "教长",
+      "type": "复杂混合（敌对为主，夹杂信息传递的工具性依赖）",
+      "strength": 7,
+      "description": [
+        "信息传递的单向工具性互动",
+        "战斗中的直接对抗",
+        "间接心理博弈"
+      ]
+    },
+    {
+      "source": "穆克拉",
+      "target": "挖掘者",
+      "type": "复杂混合（合作与潜在冲突并存）",
+      "strength": 8,
+      "description": [
+        "互补合作",
+        "间接对抗",
+        "任务依赖"
+      ]
+    },
+    {
+      "source": "穆克拉",
+      "target": "蒙特二世",
+      "type": "复杂混合（竞争性共生）",
+      "strength": 8,
+      "description": [
+        "信息互补型协作",
+        "防御性互惠机制",
+        "冲突驱动的协同进化"
+      ]
+    },
+    {
+      "source": "穆克拉",
+      "target": "注酸者",
+      "type": "互补协作型",
+      "strength": 8,
+      "description": [
+        "信息传递与战术执行互补",
+        "危机响应中的互为支撑",
+        "预防性策略协调"
+      ]
+    },
+    {
+      "source": "穆克拉",
+      "target": "深沙巴士",
+      "type": "复杂混合（敌对为主，含潜在互补与短暂合作）",
+      "strength": 8,
+      "description": [
+        "对抗性战斗配合",
+        "信息传递中的间接交锋",
+        "危机事件下的短暂互补"
+      ]
+    },
+    {
+      "source": "穆克拉",
+      "target": "阿兹特克虫",
+      "type": "复杂混合（亲密与张力并存的互补型盟友）",
+      "strength": 8,
+      "description": [
+        "互补合作",
+        "间接对抗",
+        "相互依赖"
+      ]
+    },
+    {
+      "source": "穆克拉",
+      "target": "锥形细胞",
+      "type": "复杂混合（合作与潜在冲突交织）",
+      "strength": 8,
+      "description": [
+        "互补合作",
+        "间歇性冲突",
+        "信息依赖与攻击协同"
+      ]
+    },
+    {
+      "source": "间谍",
+      "target": "侏儒",
+      "type": "复杂混合（部分合作、部分敌对、隐性依赖）",
+      "strength": 7,
+      "description": [
+        "互补依赖（间谍依赖侏儒的知识，侏儒依赖间谍的能力）",
+        "间接对抗（通过幻觉操控与信息隐瞒）",
+        "短暂协作（针对共同威胁）"
+      ]
+    },
+    {
+      "source": "间谍",
+      "target": "教长",
+      "type": "敌对与微妙共生的复杂混合",
+      "strength": 8,
+      "description": [
+        "对抗性试探",
+        "间接操控与反制",
+        "能力互补的隐性协作"
+      ]
+    },
+    {
+      "source": "间谍",
+      "target": "挖掘者",
+      "type": "复杂混合（敌对与互补共生）",
+      "strength": 8,
+      "description": [
+        "敌对性试探",
+        "功能性利用",
+        "短暂利益同盟"
+      ]
+    },
+    {
+      "source": "间谍",
+      "target": "蒙特二世",
+      "type": "复杂混合（操控与依赖交织）",
+      "strength": 8,
+      "description": [
+        "操控性依赖",
+        "对抗性合作",
+        "信息交换与反制"
+      ]
+    },
+    {
+      "source": "间谍",
+      "target": "注酸者",
+      "type": "复杂混合（互补合作与潜在风险）",
+      "strength": 7,
+      "description": [
+        "互补合作",
+        "间接依赖",
+        "协同防御"
+      ]
+    },
+    {
+      "source": "间谍",
+      "target": "深沙巴士",
+      "type": "复杂混合（表面合作中隐藏敌对与背叛）",
+      "strength": 8,
+      "description": [
+        "互补性协作（深沙巴士提供力量支持，间谍提供幻觉操控）",
+        "隐秘对抗（间谍暗中破坏深沙巴士计划）",
+        "利益驱动的短期联盟（基于共同目标但缺乏信任）"
+      ]
+    },
+    {
+      "source": "间谍",
+      "target": "阿兹特克虫",
+      "type": "复杂混合",
+      "strength": 8,
+      "description": [
+        "合作",
+        "对抗",
+        "互补",
+        "依赖"
+      ]
+    },
+    {
+      "source": "侏儒",
+      "target": "教长",
+      "type": "复杂混合（敌对中隐含道德羁绊）",
+      "strength": 8,
+      "description": [
+        "对抗性行动回避",
+        "象征性物质传递",
+        "间接信息交锋"
+      ]
+    },
+    {
+      "source": "侏儒",
+      "target": "蒙特二世",
+      "type": "复杂混合（敌对与潜在合作交织）",
+      "strength": 7,
+      "description": [
+        "间接对抗",
+        "信息不对称博弈",
+        "有限合作"
+      ]
+    },
+    {
+      "source": "侏儒",
+      "target": "注酸者",
+      "type": "复杂混合（隐性依赖与潜在冲突交织）",
+      "strength": 7,
+      "description": [
+        "互补合作（侏儒行动触发注酸者功能）",
+        "隐性依赖（侏儒依赖注酸者处理遗留问题，注酸者依赖侏儒指令）",
+        "潜在对抗（侏儒秘密与注酸者工具属性的冲突）"
+      ]
+    },
+    {
+      "source": "侏儒",
+      "target": "深沙巴士",
+      "type": "复杂混合（敌对中隐含信息交换的共生关系）",
+      "strength": 8,
+      "description": [
+        "隐蔽对抗",
+        "信息不对称博弈",
+        "环境利用型协作"
+      ]
+    },
+    {
+      "source": "侏儒",
+      "target": "阿兹特克虫",
+      "type": "复杂混合",
+      "strength": 7,
+      "description": [
+        "合作",
+        "对抗",
+        "互补"
+      ]
+    },
+    {
+      "source": "侏儒",
+      "target": "锥形细胞",
+      "type": "复杂敌对混合",
+      "strength": 7,
+      "description": [
+        "对抗性冲突",
+        "间接互补互动",
+        "被动回避"
+      ]
+    },
+    {
+      "source": "教长",
+      "target": "挖掘者",
+      "type": "敌对与复杂依存",
+      "strength": 8,
+      "description": [
+        "对抗主导",
+        "攻击性互补",
+        "间歇性试探"
+      ]
+    },
+    {
+      "source": "教长",
+      "target": "蒙特二世",
+      "type": "复杂混合（表面敌对但隐含扭曲的共情与相互依赖）",
+      "strength": 8,
+      "description": [
+        "对抗性竞争",
+        "间接情感共鸣",
+        "强制性共生依赖"
+      ]
+    },
+    {
+      "source": "教长",
+      "target": "注酸者",
+      "type": "敌对与复杂依存混合",
+      "strength": 8,
+      "description": [
+        "对抗性冲突",
+        "工具性利用与反制",
+        "间接依赖关系"
+      ]
+    },
+    {
+      "source": "教长",
+      "target": "深沙巴士",
+      "type": "复杂混合型（敌对与临时合作交织）",
+      "strength": 7,
+      "description": [
+        "策略性合作（基于共同威胁）",
+        "间接竞争（资源与控制权争夺）",
+        "公开对抗（直接冲突爆发）"
+      ]
+    },
+    {
+      "source": "教长",
+      "target": "阿兹特克虫",
+      "type": "复杂混合（敌对-依赖）",
+      "strength": 7,
+      "description": [
+        "支配-服从",
+        "工具性利用",
+        "隐性对抗"
+      ]
+    },
+    {
+      "source": "教长",
+      "target": "锥形细胞",
+      "type": "支配与服从的复杂混合关系（表面合作，深层敌对）",
+      "strength": 7,
+      "description": [
+        "控制性指挥与服从执行",
+        "对抗性协作（教长部署，锥形细胞被动参与）",
+        "间歇性冲突与压制"
+      ]
+    },
+    {
+      "source": "挖掘者",
+      "target": "蒙特二世",
+      "type": "复杂混合（敌对与互补并存）",
+      "strength": 8,
+      "description": [
+        "对抗（攻击与防御）",
+        "互补（资源交换）",
+        "短暂协作"
+      ]
+    },
+    {
+      "source": "挖掘者",
+      "target": "注酸者",
+      "type": "复杂混合（互补合作与潜在竞争交织）",
+      "strength": 8,
+      "description": [
+        "互补协作",
+        "功能竞争",
+        "情境化对抗"
+      ]
+    },
+    {
+      "source": "挖掘者",
+      "target": "深沙巴士",
+      "type": "敌对",
+      "strength": 8,
+      "description": [
+        "捕食-防御对抗",
+        "资源争夺竞争",
+        "本能攻击与躲避"
+      ]
+    },
+    {
+      "source": "挖掘者",
+      "target": "阿兹特克虫",
+      "type": "复杂混合（生存竞争与短暂合作）",
+      "strength": 7,
+      "description": [
+        "资源争夺对抗",
+        "环境危机下的临时协作",
+        "捕食者威胁下的共生互惠"
+      ]
+    },
+    {
+      "source": "挖掘者",
+      "target": "锥形细胞",
+      "type": "复杂混合（既有合作互补又隐含竞争冲突）",
+      "strength": 7,
+      "description": [
+        "互补协作",
+        "竞争性依赖",
+        "防御性协同"
+      ]
+    },
+    {
+      "source": "蒙特二世",
+      "target": "注酸者",
+      "type": "共生型复杂混合关系（依赖与互补并存）",
+      "strength": 8,
+      "description": [
+        "互补性功能依赖",
+        "危机响应协同",
+        "非语言信号传递"
+      ]
+    },
+    {
+      "source": "蒙特二世",
+      "target": "深沙巴士",
+      "type": "敌对但复杂混合（包含本能共生与进化对抗）",
+      "strength": 9,
+      "description": [
+        "直接对抗（物理冲突）",
+        "间接竞争（资源争夺）",
+        "本能共鸣（生理层面的生态关联）"
+      ]
+    },
+    {
+      "source": "蒙特二世",
+      "target": "阿兹特克虫",
+      "type": "复杂混合（共生依赖与微妙竞争）",
+      "strength": 8,
+      "description": [
+        "互补协作",
+        "本能驱动依赖",
+        "竞争性资源分配"
+      ]
+    },
+    {
+      "source": "蒙特二世",
+      "target": "锥形细胞",
+      "type": "复杂混合（共生依赖与内部冲突）",
+      "strength": 8,
+      "description": [
+        "互补攻击",
+        "依赖性排斥",
+        "防御性协作"
+      ]
+    },
+    {
+      "source": "注酸者",
+      "target": "深沙巴士",
+      "type": "敌对性依赖关系（工具型对抗与战略利用）",
+      "strength": 8,
+      "description": [
+        "对抗性冲突",
+        "工具性利用",
+        "间接战术配合"
+      ]
+    },
+    {
+      "source": "注酸者",
+      "target": "阿兹特克虫",
+      "type": "复杂混合（功能互补与工具性依赖）",
+      "strength": 7,
+      "description": [
+        "互补协作",
+        "功能依赖",
+        "间接竞争"
+      ]
+    },
+    {
+      "source": "注酸者",
+      "target": "锥形细胞",
+      "type": "复杂混合关系（进化衍生与工具依赖交织）",
+      "strength": 8,
+      "description": [
+        "互补依赖",
+        "协同攻击",
+        "进化继承"
+      ]
+    },
+    {
+      "source": "深沙巴士",
+      "target": "阿兹特克虫",
+      "type": "复杂混合（亲密但带有控制与反抗的扭曲母性关系）",
+      "strength": 8,
+      "description": [
+        "控制与服从",
+        "本能协作",
+        "隐性反抗",
+        "潜在共生"
+      ]
+    },
+    {
+      "source": "深沙巴士",
+      "target": "锥形细胞",
+      "type": "复杂混合（创造者与子体关系，兼具控制与潜在冲突）",
+      "strength": 8,
+      "description": [
+        "控制-服从",
+        "工具性利用",
+        "间接依赖"
+      ]
+    },
+    {
+      "source": "阿兹特克虫",
+      "target": "锥形细胞",
+      "type": "复杂混合关系（依赖性合作与对抗性冲突交织）",
+      "strength": 8,
+      "description": [
+        "攻击协同合作",
+        "资源依赖互补",
+        "稳定性冲突对抗",
+        "危机中临时联盟"
+      ]
+    }
+  ]
+}

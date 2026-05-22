@@ -1,0 +1,533 @@
+{
+  "races": {
+    "虚民（外星来客）": {
+      "original_names": [
+        "虚民",
+        "外星来客"
+      ],
+      "description": "虚民是来自其他星球，具有星际航行能力的种族，在故事中与龙族和其他种族互动，展现出不同的文化和科技水平。",
+      "characteristics": [
+        "星际航行能力",
+        "与其他种族互动"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "指挥官",
+        "学者",
+        "舰长",
+        "勇者",
+        "操作员"
+      ]
+    },
+    "龙族": {
+      "original_names": [
+        "龙族",
+        "骸龙"
+      ],
+      "description": "龙族是故事中的智慧生物，分为多个分支，如白骸龙、翡翠龙等，具有不同的形态和能力，在故事中扮演重要角色。",
+      "characteristics": [
+        "智慧",
+        "多种分支"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "将军",
+        "瘟疫之龙",
+        "银甲龙指挥官",
+        "血雾将军",
+        "卫兵队长"
+      ]
+    },
+    "机械构造体": {
+      "original_names": [
+        "机械构造体"
+      ],
+      "description": "机械构造体是由琳创造的智能生物，兼具生物结构和机械科技，在故事中作为战略工具和智能体出现。",
+      "characteristics": [
+        "生物与机械结合",
+        "智能"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "利维坦",
+        "开拓者",
+        "飞行员",
+        "合成体",
+        "控制者"
+      ]
+    },
+    "阿兹特克虫群": {
+      "original_names": [
+        "阿兹特克虫群"
+      ],
+      "description": "阿兹特克虫群是一种群居节肢类生物，以尖柱林为原生栖息地，依赖苔藓生态系统生存，具有严密的群体组织和分布。",
+      "characteristics": [
+        "群居",
+        "依赖苔藓生态系统"
+      ],
+      "typical_habitat": "尖柱林",
+      "evolution_level": "未知",
+      "members": [
+        "蒙特二世",
+        "阿兹特克虫",
+        "蠕虫",
+        "阿蒙",
+        "护卫者"
+      ]
+    },
+    "翡翠龙": {
+      "original_names": [
+        "翡翠龙"
+      ],
+      "description": "翡翠龙是故事中的智慧生物，具有不同的形态和能力，在故事中扮演重要角色，与虚民和其他种族互动。",
+      "characteristics": [
+        "智慧",
+        "多种形态"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "穆克拉",
+        "黑椒",
+        "飞矛",
+        "小翡翠龙",
+        "波塞冬龙"
+      ]
+    },
+    "未知物种": {
+      "original_names": [
+        "未知物种"
+      ],
+      "description": "未知物种是指故事中缺乏基因记录的原始生命形态，具有不同的特征和能力，在故事中扮演各种角色。",
+      "characteristics": [
+        "缺乏基因记录",
+        "原始生命形态"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "猎食者",
+        "电侏儒",
+        "沙漠蝎",
+        "蝾螈",
+        "斯帕蜥"
+      ]
+    },
+    "琳（单细胞进化体）": {
+      "original_names": [
+        "琳"
+      ],
+      "description": "琳是由莎琳创造的具有个体性的细胞生命体，其本质为可进化的智能细胞群落，在故事中扮演核心主角。",
+      "characteristics": [
+        "单细胞进化体",
+        "智能"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "琳",
+        "贝希摩斯",
+        "毛玉",
+        "星测者",
+        "观察者"
+      ]
+    },
+    "亚特族群": {
+      "original_names": [
+        "亚特族群"
+      ],
+      "description": "亚特族群是已消亡的古老智慧种族，其文明存续时间跨越了三个纪元，以特殊脑结构著称，通过神经突触网络实现信息共享。",
+      "characteristics": [
+        "古老智慧种族",
+        "特殊脑结构"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "立蝎",
+        "立蝎领主",
+        "亚特族群",
+        "莎琳",
+        "亚特种群"
+      ]
+    },
+    "印加虫群": {
+      "original_names": [
+        "印加虫群"
+      ],
+      "description": "印加虫群是一种具有群体特性的生物物种，属于翼龙类生物群落的共生单元，具有不同的特征和能力，在故事中扮演重要角色。",
+      "characteristics": [
+        "群体特性",
+        "翼龙类生物群落共生"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "裂地者",
+        "瓦解者",
+        "喷沙虫",
+        "黑蜂",
+        "炼狱蠕虫"
+      ]
+    },
+    "白骸龙": {
+      "original_names": [
+        "白骸龙"
+      ],
+      "description": "白骸龙是指故事中具有多种形态和能力的生物物种，在故事中扮演重要角色。",
+      "characteristics": [
+        "多种形态",
+        "多种能力"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "海王",
+        "预言者",
+        "山之王",
+        "卫兵"
+      ]
+    },
+    "虫群": {
+      "original_names": [
+        "虫群"
+      ],
+      "description": "虫群是指故事中具有群体特性的生物物种，具有不同的特征和能力，在故事中扮演各种角色。",
+      "characteristics": [
+        "群体特性"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "音蜥",
+        "毛虫型生物",
+        "黑色虫群",
+        "结晶虫群",
+        "巨犀晶龟"
+      ]
+    },
+    "多细胞异形生物": {
+      "original_names": [
+        "多细胞异形生物"
+      ],
+      "description": "多细胞异形生物是指故事中具有多种形态和能力的生物物种，在故事中扮演各种角色。",
+      "characteristics": [
+        "多种形态",
+        "多种能力"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "‘创造者’",
+        "另一个创造者"
+      ]
+    },
+    "蜥蜴类群生物群": {
+      "original_names": [
+        "蜥蜴类群生物群"
+      ],
+      "description": "蜥蜴类群生物群是指故事中具有多种形态和能力的生物物种，在故事中扮演各种角色。",
+      "characteristics": [
+        "多种形态",
+        "多种能力"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "奇布查虫",
+        "暴君巨蜥",
+        "沙丘巨蜥"
+      ]
+    },
+    "外星来客": {
+      "original_names": [
+        "外星来客"
+      ],
+      "description": "外星来客是指故事中来自其他星球的种族，具有不同的文化和科技水平，在故事中扮演各种角色。",
+      "characteristics": [
+        "来自其他星球",
+        "不同的文化和科技水平"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "虚民操作员",
+        "虚民高层",
+        "感染虚民"
+      ]
+    },
+    "阿兹特克虫": {
+      "original_names": [
+        "阿兹特克虫"
+      ],
+      "description": "阿兹特克虫是指故事中具有群体特性的生物物种，具有不同的特征和能力，在故事中扮演重要角色。",
+      "characteristics": [
+        "群体特性"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "脑袋虫",
+        "脑袋虫玛雅"
+      ]
+    },
+    "脑袋虫": {
+      "original_names": [
+        "脑袋虫"
+      ],
+      "description": "脑袋虫是指故事中具有群体特性的生物物种，具有不同的特征和能力，在故事中扮演重要角色。",
+      "characteristics": [
+        "群体特性"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "玛雅",
+        "蒂卡尔"
+      ]
+    },
+    "阿兹特克蠕虫（飞行型）": {
+      "original_names": [
+        "阿兹特克蠕虫（飞行型）"
+      ],
+      "description": "阿兹特克蠕虫（飞行型）是指故事中具有群体特性的生物物种，具有不同的特征和能力，在故事中扮演重要角色。",
+      "characteristics": [
+        "群体特性"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "蒙特祖玛",
+        "地蠢者"
+      ]
+    },
+    "单细胞进化体": {
+      "original_names": [
+        "单细胞进化体"
+      ],
+      "description": "单细胞进化体是指故事中具有单细胞生命形态的生物物种，具有不同的特征和能力，在故事中扮演各种角色。",
+      "characteristics": [
+        "单细胞生命形态"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "莫斯",
+        "储藏者"
+      ]
+    },
+    "多细胞真菌类生物": {
+      "original_names": [
+        "多细胞真菌类生物"
+      ],
+      "description": "多细胞真菌类生物是指故事中具有多种形态和能力的生物物种，在故事中扮演各种角色。",
+      "characteristics": [
+        "多种形态",
+        "多种能力"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "脑",
+        "剑蚤的脑"
+      ]
+    },
+    "生物": {
+      "original_names": [
+        "生物"
+      ],
+      "description": "生物是指故事中具有多种形态和能力的生物物种，在故事中扮演各种角色。",
+      "characteristics": [
+        "多种形态",
+        "多种能力"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "剑蚤",
+        "菊石"
+      ]
+    },
+    "兵种集群": {
+      "original_names": [
+        "兵种集群"
+      ],
+      "description": "兵种集群是指故事中具有群体特性的生物物种，具有不同的特征和能力，在故事中扮演重要角色。",
+      "characteristics": [
+        "群体特性"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "风雪球",
+        "跃蝗"
+      ]
+    },
+    "原文未明确分类": {
+      "original_names": [
+        "原文未明确分类"
+      ],
+      "description": "原文未明确分类是指故事中原文中未明确分类的角色，具有不同的特征和能力，在故事中扮演各种角色。",
+      "characteristics": [
+        "未明确分类"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "鲨鱼",
+        "引导者"
+      ]
+    },
+    "合金生物（白骸龙形态）": {
+      "original_names": [
+        "合金生物（白骸龙形态）"
+      ],
+      "description": "合金生物（白骸龙形态）是指故事中具有多种形态和能力的生物物种，在故事中扮演各种角色。",
+      "characteristics": [
+        "多种形态",
+        "多种能力"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "教长"
+      ]
+    },
+    "脑袋虫（已进化个体）": {
+      "original_names": [
+        "脑袋虫（已进化个体）"
+      ],
+      "description": "脑袋虫（已进化个体）是指故事中具有群体特性的生物物种，具有不同的特征和能力，在故事中扮演重要角色。",
+      "characteristics": [
+        "群体特性"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "姆克图"
+      ]
+    },
+    "骸龙（小型龙类，鳞片呈青绿色）": {
+      "original_names": [
+        "骸龙（小型龙类，鳞片呈青绿色）"
+      ],
+      "description": "骸龙（小型龙类，鳞片呈青绿色）是指故事中具有多种形态和能力的生物物种，在故事中扮演各种角色。",
+      "characteristics": [
+        "多种形态",
+        "多种能力"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "利德尔"
+      ]
+    },
+    "异星种族": {
+      "original_names": [
+        "异星种族"
+      ],
+      "description": "异星种族是指故事中来自其他星球的种族，具有不同的文化和科技水平，在故事中扮演各种角色。",
+      "characteristics": [
+        "来自其他星球",
+        "不同的文化和科技水平"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "虚民"
+      ]
+    },
+    "多细胞硅基生命体（螺旋形态）": {
+      "original_names": [
+        "多细胞硅基生命体（螺旋形态）"
+      ],
+      "description": "多细胞硅基生命体（螺旋形态）是指故事中具有多种形态和能力的生物物种，在故事中扮演各种角色。",
+      "characteristics": [
+        "多种形态",
+        "多种能力"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "螺旋生物"
+      ]
+    },
+    "脑袋虫玛雅族群的兵种": {
+      "original_names": [
+        "脑袋虫玛雅族群的兵种"
+      ],
+      "description": "脑袋虫玛雅族群的兵种是指故事中具有群体特性的生物物种，具有不同的特征和能力，在故事中扮演重要角色。",
+      "characteristics": [
+        "群体特性"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "爆响虫"
+      ]
+    },
+    "阿兹特克虫（多细胞节肢动物）": {
+      "original_names": [
+        "阿兹特克虫（多细胞节肢动物）"
+      ],
+      "description": "阿兹特克虫（多细胞节肢动物）是指故事中具有群体特性的生物物种，具有不同的特征和能力，在故事中扮演重要角色。",
+      "characteristics": [
+        "群体特性"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "深沙巴士"
+      ]
+    },
+    "龙族/翡翠龙": {
+      "original_names": [
+        "龙族/翡翠龙"
+      ],
+      "description": "龙族/翡翠龙是指故事中具有多种形态和能力的生物物种，在故事中扮演重要角色。",
+      "characteristics": [
+        "多种形态",
+        "多种能力"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "苏苏米"
+      ]
+    },
+    "骸龙（化石化的龙类遗骸与能量晶簇共生体）": {
+      "original_names": [
+        "骸龙（化石化的龙类遗骸与能量晶簇共生体）"
+      ],
+      "description": "骸龙（化石化的龙类遗骸与能量晶簇共生体）是指故事中具有多种形态和能力的生物物种，在故事中扮演重要角色。",
+      "characteristics": [
+        "多种形态",
+        "多种能力"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "年老骸龙"
+      ]
+    },
+    "原文未明确种族": {
+      "original_names": [
+        "原文未明确种族"
+      ],
+      "description": "原文未明确种族是指故事中原文中未明确分类的角色，具有不同的特征和能力，在故事中扮演各种角色。",
+      "characteristics": [
+        "未明确分类"
+      ],
+      "typical_habitat": "未知",
+      "evolution_level": "未知",
+      "members": [
+        "王的军队",
+        "翡翠龙雕塑大师",
+        "王之城"
+      ]
+    }
+  }
+}
